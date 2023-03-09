@@ -19,6 +19,7 @@ Dieser Auftrag hat folgende Ziele:
 
 ##  :school_satchel: Skills
 
+
 + Nutzung des Internets, um Informationen oder Formeln zu finden, die zur Lösung von Programmieraufgaben benötigt werden
 + Verwendung von Zuweisungs-Workflow-Schritten
 
