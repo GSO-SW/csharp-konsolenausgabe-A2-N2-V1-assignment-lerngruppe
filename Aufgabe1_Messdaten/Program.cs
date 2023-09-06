@@ -17,7 +17,8 @@ public static class Aufgabe_1
 
         double hoehe = 32.346;
         double breite = 15.193;
-
+        
+        
         //Diese Zeile mit Ihrem Quellcode ersetzen
 
     }

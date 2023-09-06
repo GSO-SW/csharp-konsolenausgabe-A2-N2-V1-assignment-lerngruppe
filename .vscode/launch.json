@@ -1,0 +1,31 @@
+{
+    // Verwendet IntelliSense zum Ermitteln möglicher Attribute.
+    // Zeigen Sie auf vorhandene Attribute, um die zugehörigen Beschreibungen anzuzeigen.
+    // Weitere Informationen finden Sie unter https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Aufgabe1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildAufgabe1",
+            "program": "${workspaceFolder}/Aufgabe1_Messdaten/bin/Debug/net6.0/Aufgabe1_Messdaten.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe1_Messdaten",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Aufgabe2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildAufgabe2",
+            "program": "${workspaceFolder}/Aufgabe2_Gehaltsliste/bin/Debug/net6.0/Aufgabe2_Gehaltsliste.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Aufgabe2_Gehaltsliste",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        }
+
+    ]
+}
