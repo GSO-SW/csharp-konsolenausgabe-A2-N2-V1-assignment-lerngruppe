@@ -8,7 +8,7 @@
 			//https://mcr.microsoft.com/en-us/product/devcontainers/dotnet/about
 			// Update 'VERSION' to pick a .NET Core version: 3.1, 7.0
 			// Append "VARIANT"-bullseye or -focal to pin to an OS version.
-			"VARIANT": "6.0-bullseye"//<-- HIER DIE VERSION ÄNDERN
+			"VARIANT": "6.0"//<-- HIER DIE VERSION ÄNDERN
 	
 		}
 	},
