@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "buildAufgabe1",
-            "program": "${workspaceFolder}/Aufgabe1_Messdaten/bin/Debug/net6.0/Aufgabe1_Messdaten.dll",
+            "program": "${workspaceFolder}/Aufgabe1_Messdaten/bin/Debug/net7.0/Aufgabe1_Messdaten.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Aufgabe1_Messdaten",
             "stopAtEntry": false,
@@ -20,11 +20,16 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "buildAufgabe2",
-            "program": "${workspaceFolder}/Aufgabe2_Gehaltsliste/bin/Debug/net6.0/Aufgabe2_Gehaltsliste.dll",
+            "program": "${workspaceFolder}/Aufgabe2_Gehaltsliste/bin/Debug/net7.0/Aufgabe2_Gehaltsliste.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Aufgabe2_Gehaltsliste",
             "stopAtEntry": false,
             "console": "integratedTerminal"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
         }
 
     ]
