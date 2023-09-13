@@ -15,6 +15,7 @@ public static class Aufgabe_1
     public static void Aufgabe1()
     {
 
+
         double hoehe = 32.346;
         double breite = 15.193;
         
